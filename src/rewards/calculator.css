@@ -1,0 +1,46 @@
+.rewards-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .rewards-title {
+    margin-bottom: 20px;
+  }
+  
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  .rewards-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .rewards-table th,
+  .rewards-table td {
+    padding: 10px;
+  }
+  
+  .rewards-table th {
+    text-align: right;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .rewards-table th:first-child {
+    text-align: left;
+  }
+  
+  .rewards-table td {
+    text-align: right;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .rewards-table td:first-child {
+    text-align: left;
+  }
+  
+  .total-points {
+    font-weight: bold;
+  }
+  

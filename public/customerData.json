@@ -1,0 +1,89 @@
+{
+    "transactionData": [
+      {
+        "id": 1,
+        "customerId": 1,
+        "amount": 120,
+        "date": "2024-10-05",
+        "customerName": "User1"
+      },
+      {
+        "id": 2,
+        "customerId": 1,
+        "amount": 80,
+        "date": "2024-10-12",
+        "customerName": "User1"
+      },
+      {
+        "id": 3,
+        "customerId": 1,
+        "amount": 150,
+        "date": "2024-10-20",
+        "customerName": "User1"
+      },
+      {
+        "id": 4,
+        "customerId": 2,
+        "amount": 200,
+        "date": "2024-10-11",
+        "customerName": "User2"
+      },
+      {
+        "id": 5,
+        "customerId": 2,
+        "amount": 95,
+        "date": "2024-10-25",
+        "customerName": "User2"
+      },
+      {
+        "id": 6,
+        "customerId": 2,
+        "amount": 130,
+        "date": "2024-11-02",
+        "customerName": "User2"
+      },
+      {
+        "id": 7,
+        "customerId": 3,
+        "amount": 60,
+        "date": "2024-11-10",
+        "customerName": "User3"
+      },
+      {
+        "id": 8,
+        "customerId": 3,
+        "amount": 110,
+        "date": "2024-11-15",
+        "customerName": "User3"
+      },
+      {
+        "id": 9,
+        "customerId": 3,
+        "amount": 140,
+        "date": "2024-12-01",
+        "customerName": "User3"
+      },
+      {
+        "id": 10,
+        "customerId": 4,
+        "amount": 250,
+        "date": "2024-12-05",
+        "customerName": "User4"
+      },
+      {
+        "id": 11,
+        "customerId": 4,
+        "amount": 180,
+        "date": "2024-12-10",
+        "customerName": "User4"
+      },
+      {
+        "id": 12,
+        "customerId": 4,
+        "amount": 130,
+        "date": "2024-12-18",
+        "customerName": "User4"
+      }
+    ]
+  }
+  
