@@ -14,6 +14,7 @@ For example, a **$120** purchase earns:
 ## **Technologies Used**
 - **React.js**
 - **JavaScript**, **HTML/CSS**
+- **Jest** (for Unit Testing)
 
 ---
 
@@ -30,6 +31,10 @@ For example, a **$120** purchase earns:
 3. Start the app:
    ```bash
    npm start
+   ```
+ 4. Test the app:
+   ```bash
+   npm test
    ```
    The app will be available at `http://localhost:3000/`.
 
