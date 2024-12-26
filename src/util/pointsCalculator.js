@@ -7,7 +7,6 @@ export const calculatePoints = (amount) => {
   if (typeof amount !== "number" || amount < 0) {
     throw new Error("Invalid amount");
   }
-    let points= amount>100?2*(amount-100)+50:amount-50  
-    return Math.floor(points);
-  };
-  
+  let points = amount > 100 ? 2 * (amount - 100) + 50 : amount - 50;
+  return Math.floor(points);
+};

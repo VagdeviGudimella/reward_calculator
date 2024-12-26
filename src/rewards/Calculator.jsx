@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import "./calculator.css";
-import { calculatePoints } from "../util/points";
+import { calculatePoints } from "../util/pointsCalculator";
 
 export const fetchCustomerData =async () => {
   const response=await fetch('./customerData.json')

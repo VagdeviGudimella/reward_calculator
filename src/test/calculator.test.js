@@ -1,6 +1,6 @@
 import { render, screen } from "@testing-library/react";
 import Calculator, { calculateRewards } from "../rewards/Calculator";
-import { calculatePoints } from "../util/points";
+import { calculatePoints } from "../util/pointsCalculator";
 
 describe("Calculator Component", () => {
   test("renders calculator component", () => {
